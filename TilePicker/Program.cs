@@ -8,9 +8,7 @@ namespace TilePicker
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        // entry point
         [STAThread]
         static void Main()
         {
